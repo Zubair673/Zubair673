@@ -1,4 +1,4 @@
-# Hi, I'm Zubair Rauf 👋
+# Hi, I'm Muhammad Zubair Rauf 👋
 
 ### Software Engineering Student | Frontend Developer | Learning Full Stack Development
 
