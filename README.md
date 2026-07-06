@@ -50,3 +50,24 @@ I enjoy solving real-world problems through code and continuously improving my d
 - ✅ Improve DSA & Problem Solving
 - ✅ Land a Software Engineering Internship
 - ✅ Become a Professional Full Stack Developer
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zubair-rauf-607a063ab)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairrauf5945@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Zubair673)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zubair673&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair673&layout=compact&theme=tokyonight" height="170"/>
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zubair673&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zubair673&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
