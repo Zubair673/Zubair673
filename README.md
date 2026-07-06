@@ -34,3 +34,19 @@ I enjoy solving real-world problems through code and continuously improving my d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🌱 Currently Learning
+
+- MERN Stack Development
+- REST APIs
+- Authentication & Authorization (JWT)
+- Advanced React
+- Backend Development with Node.js & Express.js
+- MongoDB Database Design
+- Clean Code & Best Practices
+  ## 🎯 2026 Goals
+
+- ✅ Build Full Stack MERN Projects
+- ✅ Contribute to Open Source
+- ✅ Improve DSA & Problem Solving
+- ✅ Land a Software Engineering Internship
+- ✅ Become a Professional Full Stack Developer
